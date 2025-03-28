@@ -1,4 +1,4 @@
-Project0:TinDog 
+Project0 : TinDog 
 -------------------------------
 
 Its is a dating website for dogs🐶🐾 using bootstrap
